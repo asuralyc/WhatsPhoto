@@ -23,6 +23,11 @@ It provides three functions
     incrementUseCount
     incrementReportCount
     markQuoteAsHidden
+# Set your facebook app id and facebook app url scheme
+/WhatsPhoto-Info.plist
+
+# Set up your wechat app url scheme
+/WhatsPhoto-Info.plist
 
 # If you want setup Google Analytics
 Set your GA id in /WhatsPhoto/AppConfig.h
