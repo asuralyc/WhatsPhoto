@@ -27,9 +27,9 @@ CRASHLYTICS_API_KEY - [fabric](http://fabric.io/) crash reporting service (you m
 WX_ID - [WeChat API](http://dev.wechat.com/wechatapi) support send photo to WeChat
 AD_NORMAL_ID - [Vpon ad](http://vpon-sdk.github.io) ad service (the vpon sdk which I use is very very old version too, it doesn't seem to work ~"~).
 
-    #define CRASHLYTICS_API_KEY @""
-    #define WX_ID @""
-    #define AD_NORMAL_ID @""
+    #define CRASHLYTICS_API_KEY @"your_crashlytics_api_key"
+    #define WX_ID @"your_wechat_application_id"
+    #define AD_NORMAL_ID @"your_vpon_id"
 
 # 3rd party version
 name|version
