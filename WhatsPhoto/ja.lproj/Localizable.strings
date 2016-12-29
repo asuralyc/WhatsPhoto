@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  WhatsPhoto
+
+  Created by Sapp on 2014/8/14.
+  Copyright (c) 2014年 Sapp. All rights reserved.
+ */
+"WhatsPhoto"="WhatsPhoto";
+"Write the subtitle in the photo"="引用を入力";
+"Add Tags"="タグを入力";
+"Please Allow Photo Access"="写真へのアクセスを許可してください";
+"This allows you to share photos from your library. Open iPhone Settings > Tap Privacy > Tap Photos > Set “%@” to ON."="ライブラリから写真のシェアを許可します。iPhoneの設定を開く > [プライバシー]をタップ > [写真]をタップ > 「%@」をオンにする。";
+"Ok"="OK";
+"Post"="投稿する";
+"Upload photo"="写真をアップロード";
+"Done"="終了";
+"Fail"="投稿できませんでした";
+"Tag length must less than 26 words."="タグ未満26文字より必要があります";
+"Tag is duplicated."="タグの重複";
+"Explore"="探検する";
+"Search"="検索";
+"Setting"="設定";
+"Message"="通知";
+"Skip"="スキップ";
+"View"="すべて表示";
+"Used: "="使用回数: ";
+"Hot"="人気";
+"New"="新着";
+"Pull down to refresh..."="下へスライドして更新...";
+"Loading..."="読み込んでいます...";
+"Release to refresh..."="更新に手を放す";
+"Add a Photo"="投稿";
+"LINE not installed"="LINEをインストールしていない";
+"WhatsApp not installed"="WhatsAppをインストールしていない";
+"WeChat not installed"="WeChatをインストールしていない";
+"Messenger not installed"="Messengerをインストールしていない";
+"Tag"="タグ";
+"Send photo to your friends"="写真を友達に送信";
+"Cancel"="キャンセル";
+"LINE"="LINE";
+"WhatsApp"="WhatsApp";
+"WeChat"="WeChat";
+"FB Messenger"="FB Messenger";
+"Save to Camera Roll"="画像を保存";
+"Photo saved"="画像保存";
+"Report"="報告";
+"Report this content?"="不適切な写真を報告?";
+"Thank you for your report."="ご報告ありがとうございます。";
+"Clear all"="記録を削除します";
+"Just"="ちょうど";
+"minutes ago"="分前";
+"hours ago"="時間前";
+"days ago"="日前";
+"weeks ago"="週間前";
+"months ago"="ヶ月前";
+"years ago"="年前";
+"Couldn't load search results"="検索結果を読み込めませんでした";
+"Worldwide"="グローバル";
+"Language"="言語";
+"Default Instant Messenger"="Default IM";
+"Preferences"="環境設定";
+"Default IM"="Default IM";
+"Empty subtitle"="字幕がいない";
+"Continue without subtitle?"="字幕なしで続行しますか？";
+"Continue"="続ける";
+"You cannot post more than 30 tags per post."="You cannot post more than 30 tags per post.";

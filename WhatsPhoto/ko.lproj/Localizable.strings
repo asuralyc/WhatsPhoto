@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  WhatsPhoto
+
+  Created by Sapp on 2014/8/14.
+  Copyright (c) 2014年 Sapp. All rights reserved.
+ */
+"WhatsPhoto"="WhatsPhoto";
+"Write the subtitle in the photo"="사진에 자막을 쓰십시오";
+"Add Tags"="태그를 추가하십시오";
+"Please Allow Photo Access"="사진 access를 허용하십시오";
+"This allows you to share photos from your library. Open iPhone Settings > Tap Privacy > Tap Photos > Set “%@” to ON."="당신의 라이브러리에서 사진을 공유하려면, 아이폰 설정을 열고 > 개인 정보를 치고 > “사진”을 치십시오> “%@”를 ON으로 설정하십시오.";
+"Ok"="확인";
+"Post"="포스트";
+"Upload photo"="사진 업로드";
+"Done"="완료";
+"Fail"="실패";
+"Tag length must less than 26 words."="태그 길이는 26 단어 미만입니다.";
+"Tag is duplicated."="태그가 중복 된 것입니다.";
+"Explore"="보기";
+"Search"="검색";
+"Setting"="설정";
+"Message"="메시지";
+"Skip"="건너 뛰기";
+"View"="보기";
+"Used: "="사용: ";
+"Hot"="인기";
+"New"="새로운 것";
+"Pull down to refresh..."="당겨서 새로고침";
+"Loading..."="로딩 중 ...";
+"Release to refresh..."="놓아서 새로고침";
+"Add a Photo"="사진 추가";
+"LINE not installed"="LINE 이 설치되어 있지 않습니다";
+"WhatsApp not installed"="WhatsApp 이 설치되어 있지 않습니다";
+"WeChat not installed"="WeChat 이 설치되어 있지 않습니다";
+"Messenger not installed"="Messenger 이 설치되어 있지 않습니다";
+"Tag"="태그";
+"Send photo to your friends"="친구에게 사진보내기";
+"Cancel"="취소";
+"LINE"="LINE";
+"WhatsApp"="WhatsApp";
+"WeChat"="WeChat";
+"FB Messenger"="FB Messenger";
+"Save to Camera Roll"="카메라 롤에 저장";
+"Photo saved"="사진 저장";
+"Report"="신고";
+"Report this content?"="이 내용을 신고하겠습니까?";
+"Thank you for your report."="신고해 주셔서 감사합니다.";
+"Clear all"="모두 지우기";
+"Just"="그냥";
+"minutes ago"="분 전";
+"hours ago"="시간 전";
+"days ago"="일 전";
+"weeks ago"="주 전";
+"months ago"="달 전";
+"years ago"="년 전";
+"Couldn't load search results"="검색 결과를 로드 할 수 없습니다";
+"Worldwide"="전세계";
+"Language"="언어";
+"Default Instant Messenger"="기본 인스턴트 메신저";
+"Preferences"="환경 설정";
+"Default IM"="기본 IM";
+"Empty subtitle"="빈 자막";
+"Continue without subtitle?"="자막없이 계속 하시겠습니까?";
+"Continue"="계속";
+"You cannot post more than 30 tags per post."="당신은 포스트 당 30 개 이상의 태그를 게시 할 수 없습니다.";

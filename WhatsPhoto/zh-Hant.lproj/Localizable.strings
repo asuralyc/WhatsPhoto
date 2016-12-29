@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  WhatsPhoto
+
+  Created by Sapp on 2014/8/14.
+  Copyright (c) 2014年 Sapp. All rights reserved.
+ */
+"WhatsPhoto"="WhatsPhoto";
+"Write the subtitle in the photo"="寫下圖片中的字幕";
+"Add Tags"="新增標籤";
+"Please Allow Photo Access"="請允許相片存取";
+"This allows you to share photos from your library. Open iPhone Settings > Tap Privacy > Tap Photos > Set “%@” to ON."="這將允許您從相機膠卷匯入螢幕截圖。請開啟 iPhone 設定 > 輕點隱私 > 輕點照片 > 將「%@」設定為啟動。";
+"Ok"="確定";
+"Post"="發佈";
+"Upload photo"="上傳圖片";
+"Done"="完成";
+"Fail"="上傳失敗";
+"Tag length must less than 26 words."="標籤字數不可以超過26個字";
+"Tag is duplicated."="標籤已重複";
+"Explore"="探索";
+"Search"="搜尋";
+"Setting"="設定";
+"Message"="訊息";
+"Skip"="略過";
+"View"="查看";
+"Used: "="使用次數: ";
+"Hot"="熱門";
+"New"="最新";
+"Pull down to refresh..."="下拉螢幕以更新...";
+"Loading..."="正在更新...";
+"Release to refresh..."="放開螢幕以更新...";
+"Add a Photo"="新增圖片";
+"LINE not installed"="LINE 尚未安裝";
+"WhatsApp not installed"="WhatsApp 尚未安裝";
+"WeChat not installed"="WeChat 尚未安裝";
+"Messenger not installed"="Messenger 尚未安裝";
+"Tag"="標籤";
+"Send photo to your friends"="傳送圖片給你的朋友";
+"Cancel"="取消";
+"LINE"="LINE";
+"WhatsApp"="WhatsApp";
+"WeChat"="WeChat";
+"FB Messenger"="FB Messenger";
+"Save to Camera Roll"="儲存圖片";
+"Photo saved"="圖片已儲存";
+"Report"="檢舉";
+"Report this content?"="檢舉此內容?";
+"Thank you for your report."="謝謝你提出檢舉";
+"Clear all"="清除搜尋記錄";
+"Just"="剛剛";
+"minutes ago"="分鐘前";
+"hours ago"="小時前";
+"days ago"="天前";
+"weeks ago"="週前";
+"months ago"="個月前";
+"years ago"="年前";
+"Couldn't load search results"="無法載入搜尋結果";
+"Worldwide"="全球";
+"Language"="語言";
+"Default Instant Messenger"="預設傳訊 App";
+"Preferences"="偏好設定";
+"Default IM"="預設傳訊 App";
+"Empty subtitle"="請輸入字幕";
+"Continue without subtitle?"="不打字幕繼續上傳?";
+"Continue"="繼續";
+"You cannot post more than 30 tags per post."="標籤個數已達30個上限";

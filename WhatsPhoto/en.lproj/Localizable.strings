@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  WhatsPhoto
+
+  Created by Sapp on 2014/8/14.
+  Copyright (c) 2014年 Sapp. All rights reserved.
+ */
+"WhatsPhoto"="WhatsPhoto";
+"Write the subtitle in the photo"="Write the subtitle in the photo";
+"Add Tags"="Add Tags";
+"Please Allow Photo Access"="Please Allow Photo Access";
+"This allows you to share photos from your library. Open iPhone Settings > Tap Privacy > Tap Photos > Set “%@” to ON."="This allows you to share photos from your library. Open iPhone Settings > Tap Privacy > Tap Photos > Set “%@” to ON.";
+"Ok"="Ok";
+"Post"="Post";
+"Upload photo"="Upload photo";
+"Done"="Done";
+"Fail"="Fail";
+"Tag length must less than 26 words."="Tag length must less than 26 words.";
+"Tag is duplicated."="Tag is duplicated.";
+"Explore"="Explore";
+"Search"="Search";
+"Setting"="Setting";
+"Message"="Message";
+"Skip"="Skip";
+"View"="View";
+"Used: "="Used: ";
+"Hot"="Hot";
+"New"="New";
+"Pull down to refresh..."="Pull down to refresh...";
+"Loading..."="Loading...";
+"Release to refresh..."="Release to refresh...";
+"Add a Photo"="Add a Photo";
+"LINE not installed"="LINE not installed";
+"WhatsApp not installed"="WhatsApp not installed";
+"WeChat not installed"="WeChat not installed";
+"Messenger not installed"="Messenger not installed";
+"Tag"="Tag";
+"Send photo to your friends"="Send photo to your friends";
+"Cancel"="Cancel";
+"LINE"="LINE";
+"WhatsApp"="WhatsApp";
+"WeChat"="WeChat";
+"FB Messenger"="FB Messenger";
+"Save to Camera Roll"="Save to Camera Roll";
+"Photo saved"="Photo saved";
+"Report"="Report";
+"Report this content?"="Report this content?";
+"Thank you for your report."="Thank you for your report.";
+"Clear all"="Clear all";
+"Just"="Just";
+"minutes ago"="minutes ago";
+"hours ago"="hours ago";
+"days ago"="days ago";
+"weeks ago"="weeks ago";
+"months ago"="months ago";
+"years ago"="years ago";
+"Couldn't load search results"="Couldn't load search results";
+"Worldwide"="Worldwide";
+"Language"="Language";
+"Default Instant Messenger"="Default Instant Messenger";
+"Preferences"="Preferences";
+"Default IM"="Default IM";
+"Empty subtitle"="Empty subtitle";
+"Continue without subtitle?"="Continue without subtitle?";
+"Continue"="Continue";
+"You cannot post more than 30 tags per post."="You cannot post more than 30 tags per post.";
