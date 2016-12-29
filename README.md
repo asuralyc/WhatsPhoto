@@ -1,5 +1,4 @@
-# WhatsPhoto
-WhatsPhoto - send quote to your friends
+# WhatsPhoto - send quote to your friends
 
 [WhatsPhoto](https://itunes.apple.com/app/id910005539) is an iOS app for share quote photo.
 
