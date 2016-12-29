@@ -10,21 +10,28 @@ This app server side based on [Parse](http://parse.com/) which will be retired o
 Just share it.
 
 # How to setup Parse server side
-You only need to [Create a new app](https://dashboard.parse.com/apps) if you want to run this app Before January 28, 2017.
+You only need to [Create a new app](https://dashboard.parse.com/apps) if you want to run this app Before January 28, 2017.<br />
 Then set your Application ID and Client key in /WhatsPhoto/AppConfig.h
 
     #define PARSE_APPLICATION_ID @"your_application_id"
     #define PARSE_CLIENT_KEY @"your_client_key"
 
-# If you want setup Google Analytics
+This project use [Parse Cloud Code](https://parseplatform.github.io/docs/cloudcode/guide/).<br />
+The souce code in /cloud/main.js<br />
+It provides three functions
 
-set your GA id in /WhatsPhoto/AppConfig.h
+    incrementUseCount
+    incrementReportCount
+    markQuoteAsHidden
+
+# If you want setup Google Analytics
+Set your GA id in /WhatsPhoto/AppConfig.h
 
     #define GA_ID @"your_ga_id"
     
 # Other 3rd party service in AppConfig.h
-CRASHLYTICS_API_KEY - [fabric](http://fabric.io/) crash reporting service (you must add Run Script Build Phases, but the Crashlytics sdk which I use is very very old version, so you need upgrade by yourself).
-WX_ID - [WeChat API](http://dev.wechat.com/wechatapi) support send photo to WeChat
+CRASHLYTICS_API_KEY - [fabric](http://fabric.io/) crash reporting service (you must add Run Script Build Phases, but the Crashlytics sdk which I use is very very old version, so you need upgrade by yourself).<br />
+WX_ID - [WeChat API](http://dev.wechat.com/wechatapi) support send photo to WeChat<br />
 AD_NORMAL_ID - [Vpon ad](http://vpon-sdk.github.io) ad service (the vpon sdk which I use is very very old version too, it doesn't seem to work ~"~).
 
     #define CRASHLYTICS_API_KEY @"your_crashlytics_api_key"
