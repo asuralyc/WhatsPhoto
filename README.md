@@ -7,7 +7,7 @@ This app server side based on [Parse](http://parse.com/) which will be retired o
 [The open source Parse backend](https://parseplatform.github.io/#server) source code can view on GitHub.
 
 # Why Open Source?
-Just Share.
+Just share it.
 
 # How to setup Parse server side
 You only need to [Create a new app](https://dashboard.parse.com/apps) if you want to run this app Before January 28, 2017.
