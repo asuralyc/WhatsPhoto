@@ -54,5 +54,22 @@ WeChat|1.5 64-bit
 Admob|6.10.0
 Vpon|4.2.12 64-bit
 
+# About WhatsPhoto
+From 2014/8/7 to 2014/9/6<br />
+Total working hours: 31:35<br />
+
+    2014/8/7 22:40~2:00
+    2014/8/9 8:00~10:00 22:30~3:00
+    2014/8/10 2:00~4:00
+    2014/8/13 1:00~2:30
+    2014/8/14 16:00~17:30
+    2014/8/17 21:20~2:20
+    2014/8/18 11:00~14:30 15:30~17:30
+    2014/8/28 4:00~4:45 5:15~5:45
+    2014/9/6 11:00~13:00 22:00~23:00 submit to app store
+<br />
+
+    2016/12/29 16:00~18:00 18:30~20:30 commit to GitHub (3.5 hrs.....)
+
 # Please don't hesitate to email to me if it helps you
 <asuralyc@gmail.com>
