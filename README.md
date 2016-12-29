@@ -9,6 +9,13 @@ This app server side based on [Parse](http://parse.com/) which will be retired o
 # Why Open Source?
 Just share it.
 
+# Screenshots
+![](https://raw.githubusercontent.com/asuralyc/WhatsPhoto/2258d601095e91bb511ac7d97c6021604413c3f9/screenshot/en/screen4_1.PNG)
+![](https://raw.githubusercontent.com/asuralyc/WhatsPhoto/2258d601095e91bb511ac7d97c6021604413c3f9/screenshot/en/screen4_2.PNG)
+![](https://raw.githubusercontent.com/asuralyc/WhatsPhoto/2258d601095e91bb511ac7d97c6021604413c3f9/screenshot/en/screen4_3.PNG)
+![](https://raw.githubusercontent.com/asuralyc/WhatsPhoto/2258d601095e91bb511ac7d97c6021604413c3f9/screenshot/en/screen4_4.PNG)
+![](https://raw.githubusercontent.com/asuralyc/WhatsPhoto/2258d601095e91bb511ac7d97c6021604413c3f9/screenshot/en/screen4_5.PNG)
+
 # How to setup Parse server side
 You only need to [Create a new app](https://dashboard.parse.com/apps) if you want to run this app Before January 28, 2017.<br />
 Then set your Application ID and Client key in /WhatsPhoto/AppConfig.h
